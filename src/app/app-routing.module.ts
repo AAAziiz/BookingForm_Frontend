@@ -17,7 +17,6 @@ const routes: Routes = [
   {path:'hlist',component:HotelListComponent},
   {path:'clist',component:CarListComponent},
   {path:'blog',component:BlogComponent},
-  {path:'test',component:TestComponent}
 
 
 
